@@ -28,7 +28,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
     "@babel/generator": "^7.20.1",
     "@babel/parser": "^7.20.1",
-    "@babel/traverse": "^7.20.1",
+    "@babel/traverse": "^7.23.2",
     "@parcel/packager-xml": "^2.8.0",
     "@parcel/transformer-js": "^2.8.0",
     "@parcel/transformer-react-refresh-wrap": "^2.8.0",
